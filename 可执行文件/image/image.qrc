@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>volumn_hover.png</file>
+        <file>volumn.png</file>
+        <file>up_hover.png</file>
+        <file>up.png</file>
+        <file>stop_hover.png</file>
+        <file>stop.png</file>
+        <file>pre_hover.png</file>
+        <file>pre_clicked.png</file>
+        <file>pre.png</file>
+        <file>play_hover.png</file>
+        <file>play_clicked.png</file>
+        <file>play.png</file>
+        <file>pause_hover.png</file>
+        <file>pause_clicked.png</file>
+        <file>pause.png</file>
+        <file>next_hover.png</file>
+        <file>next_clicked.png</file>
+        <file>next.png</file>
+        <file>min_hover.png</file>
+        <file>min.png</file>
+        <file>down_hover.png</file>
+        <file>down.png</file>
+        <file>close_hover.png</file>
+        <file>close.png</file>
+        <file>singer.png</file>
+        <file>cp.png</file>
+        <file>title.png</file>
+        <file>singlist.png</file>
+        <file>zeroandfive_hover.png</file>
+        <file>zeroandfive.png</file>
+        <file>two_hover.png</file>
+        <file>two.png</file>
+        <file>one_hover.png</file>
+        <file>oneandfive_hover.png</file>
+        <file>oneandfive.png</file>
+        <file>one.png</file>
+        <file>background.jpg</file>
+    </qresource>
+</RCC>
